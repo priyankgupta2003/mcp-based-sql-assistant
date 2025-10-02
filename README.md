@@ -1,6 +1,5 @@
 # MCP BASED SQL ASSISTANT
-
-This README documents the MCP (Model Context Protocol) BASED SQL ASSISTANT. It converts natural language to SQL, executes via an MCP server against SQLite, and renders results in Streamlit.
+MCP (Model Context Protocol) BASED SQL ASSISTANT. It converts natural language to SQL, executes via an MCP server against SQLite, and renders results in Streamlit.
 
 ## Included (MCP-only)
 - app_mcp.py — Streamlit UI
